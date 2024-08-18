@@ -92,7 +92,6 @@ button {
 .footer-section-list-1{
     text-align: left;
     list-style-type: none;  
-    margin: 10px ; 
     font: inter;
 
 }
@@ -100,7 +99,6 @@ button {
 .footer-section-list-2{
     text-align: right;
     list-style-type: none;  
-    margin: 10px ;  
 }
 
 .list1{
